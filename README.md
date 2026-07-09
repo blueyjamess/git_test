@@ -1,2 +1,2 @@
 # git_test
-Hello Odin!
+Hello Odin! What's up, the King of Norway, haha!
