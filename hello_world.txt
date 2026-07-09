@@ -1,3 +1,6 @@
 # I am just testing out the instructions given by our instructors
 To see all the changes made being reflected as suggested.
 Let's go buddy!
+I want to make a few changes to this file as well. 
+Let's see how it's gonna go from here.
+I have made some changes to the previous file below. I meant the README.md file
