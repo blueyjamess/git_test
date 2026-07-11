@@ -1,0 +1,65 @@
+[33mcommit f8d9074ebaede5714bc2425c000702d070e04ddb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Sat Jul 11 11:03:51 2026 +0100
+
+    This is the file for the assignment in Working With Text section. Initially when I attempted to run the file via google chrome, I did not add the file extension whihc is html while writing the code, this created double files and created a confusion for me. I had to delete the file without the extension and continued with this.
+
+[33mcommit 9d6fa54b43608ec7c018eff036709c887bd03251[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Fri Jul 10 16:03:58 2026 +0100
+
+    It's funny how git tracks every change. haha. What a lesson
+
+[33mcommit 73aa1f94aef23f784b902a51150cec4b776238c0[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Fri Jul 10 15:37:36 2026 +0100
+
+    I am just learning that even deleted files get recorded unto GitHub's server. That's a good lesson, hence, I am doing this.
+
+[33mcommit e9e77f402b0e47bd44e8c3660f6c08f7facce542[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Fri Jul 10 15:19:53 2026 +0100
+
+    I just added an adverb to the title of the website
+
+[33mcommit e420a82d0c992e4f7e7e343dfc26512981ca3ef8[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Fri Jul 10 14:50:15 2026 +0100
+
+    I made some changes to the file in the middle of the night, I didn't upload the changes to github
+
+[33mcommit 136e88481b67a5530385354304b35c5d2cfe573e[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Thu Jul 9 16:19:29 2026 +0100
+
+    Just testing our our new file. haha
+
+[33mcommit 3ddc2b6d40723b3827819c7453ed5794021892b0[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Thu Jul 9 16:12:22 2026 +0100
+
+    I added my experience on Vikings movie that I saw some years ago
+
+[33mcommit 3b96c41aec7a74353ba65e316a136e42db7a2391[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Thu Jul 9 15:59:01 2026 +0100
+
+    I added some few facts
+
+[33mcommit be860932c05a5c8a923377bc883583da582b6e32[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Thu Jul 9 07:29:37 2026 +0100
+
+    Edit README.md and hello_world.txt
+
+[33mcommit c6a42663677e77c6b064385675c48454e6d90da0[m
+Author: greentree <47833572+blueyjamess@users.noreply.github.com>
+Date:   Wed Jul 8 10:45:28 2026 +0100
+
+    Add hello_world.txt
+
+[33mcommit 4c6303f130bbac36266de50df42a2d6cbc6c160e[m
+Author: blueyjamess <47833572+blueyjamess@users.noreply.github.com>
+Date:   Wed Jul 8 10:28:36 2026 +0100
+
+    Initial commit
