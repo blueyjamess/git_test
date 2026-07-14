@@ -8,3 +8,5 @@ Rollo
 Lagathar
 KIng Harold.
 Oh my! Those guys were exceptional.
+There is an image of Charles the Dog in this file. 
+There is also another file called "naija". It is a common license image gotten from Google. 
